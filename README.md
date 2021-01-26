@@ -1,4 +1,4 @@
-Simple Todo app on React.
+<b>Simple Todo app on React.<b>
 
 Capabilities: 
 • Add, Remove, Edit Lists
