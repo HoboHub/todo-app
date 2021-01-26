@@ -6,8 +6,8 @@
 • Change style of the Lists
 
 <b>Used stack:</b>
-
-•	ReactJS (useState, useReducer, useEffect)
+•	ReactJS (useState, useReducer, useEffect) 
 •	React Router
 •	Axios
 •	classnames
+
