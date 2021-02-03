@@ -20,3 +20,5 @@
 
 •	classnames
 
+
+For test you need a fake-json server
